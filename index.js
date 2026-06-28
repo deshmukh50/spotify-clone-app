@@ -172,7 +172,7 @@ const songs = {
 
     44: {
         title: "Barged",
-        artist: "sufr, Arpit Bala, Toorjo dey",
+        artist: "Sufr, Arpit Bala, Toorjo dey",
         image: "barged india best.jpg",
         file: "sufr ft Arpit Bala, toorjo dey - bargad.mp3"
     },
