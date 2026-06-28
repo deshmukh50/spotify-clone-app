@@ -12,246 +12,246 @@ const songs = {
     7: {
         title: "Bairan",
         artist: "Banjaare",
-        image: "bairan song trending.jpg",
-        file: "Bairan - Bairan (128 kbps).mp3"
+        image: "images/bairan song trending.jpg",
+        file: "songs/Bairan - Bairan (128 kbps).mp3"
     },
 
     8: {
         title: "Jab Talak",
         artist: "Arijit Singh",
-        image: "trending song.jpg",
-        file: "Jab Talak Cocktail 2 128 Kbps.mp3"
+        image: "images/trending song.jpg",
+        file: "songs/Jab Talak Cocktail 2 128 Kbps.mp3"
     },
 
     9: {
         title: "Sheesha",
         artist: "Mitta Ror, Swara Verma",
-        image: "sheesha trending song.jpg",
-        file: "Sheesha (Aakhya Mai Aakh Ghali Jo Bairan) - Sheesha (Aakhya Mai Aakh Ghali Jo Bairan) (128 kbps).mp3"
+        image: "images/sheesha trending song.jpg",
+        file: "songs/Sheesha (Aakhya Mai Aakh Ghali Jo Bairan) - Sheesha (Aakhya Mai Aakh Ghali Jo Bairan) (128 kbps).mp3"
     },
 
     10: {
         title: "Sadi Sun",
         artist: "Harsh Nussi",
-        image: "Sadi-Sun-Punjabi song.jpg",
-        file: "Sadi Sun Harsh Nussi 128 Kbps.mp3"
+        image: "images/Sadi-Sun-Punjabi song.jpg",
+        file: "songs/Sadi Sun Harsh Nussi 128 Kbps.mp3"
     },
 
     11: {
         title: "Jaiye sajna",
         artist: "Satinder Sartaaj,Jasmine Sandlas,Shashwat Sachdev",
-        image: "trending song2.jpg",
-        file: "Jaiye Sajana Dhurandhar The Revenge 128 Kbps.mp3"
+        image: "images/trending song2.jpg",
+        file: "songs/Jaiye Sajana Dhurandhar The Revenge 128 Kbps.mp3"
     },
 
      25: {
         title: "Phir Milenge chalte chalte",
         artist: "Salim-Sulaiman, Soun Nigma, Jaideep Sahni",
-        image: "phir milenge chalte chalte.jpg",
-        file: "Phir Milenge Chalte Chalte Rab Ne Bana Di Jodi 128 Kbps.mp3"
+        image: "images/phir milenge chalte chalte.jpg",
+        file: "songs/Phir Milenge Chalte Chalte Rab Ne Bana Di Jodi 128 Kbps.mp3"
     },
 
     26: {
         title: "Dil ka jo hal hai",
         artist: "Abhijeet, Shreya Ghoshal",
-        image: "dil kaa jo hal hai.jpg",
-        file: "Dil Kaa Jo Haal Hai Besharam 128 Kbps.mp3"
+        image: "images/dil kaa jo hal hai.jpg",
+        file: "songs/Dil Kaa Jo Haal Hai Besharam 128 Kbps.mp3"
     },
 
     27: {
         title: "Hey Shona",
         artist: "Vishal-Shekhar, Shaan, Javed Akhtar, Sunidhi Chauhan",
-        image: "hey shona.jpg",
-        file: "Hey Shona Ta Ra Rum Pum 128 Kbps.mp3"
+        image: "images/hey shona.jpg",
+        file: "songs/Hey Shona Ta Ra Rum Pum 128 Kbps.mp3"
     },
 
     28:{
         title:"Masakali",
         artist:"Prasoon Joshi, A.R. Rahman, Mohit Chauhan",
-        image:"masakali.jpg",
-        file:"Masakali Delhi 6 128 Kbps.mp3"
+        image:"images/masakali.jpg",
+        file:"songs/Masakali Delhi 6 128 Kbps.mp3"
     },
 
     29: {
         title: "Ye Ishq Hai",
         artist: "Pritam, Shreya Ghoshal, Irshad Kamil",
-        image: "ye ishq hai.jpg",
-        file: "Ye Ishq Hai Jab We Met 128 Kbps.mp3"
+        image: "images/ye ishq hai.jpg",
+        file: "songs/Ye Ishq Hai Jab We Met 128 Kbps.mp3"
     },
 
     30: {
         title: "Om Namo Bhagavate Vasudevaya",
         artist: "Saurabh Mittal, Twinkle Mittal",
-        image: "om namo bhagavate vasudevaya.jpeg",
-        file: "Om Namo Bhagavate Vasudevaya Mahavatar Narsimha 128 Kbps.mp3"
+        image: "images/om namo bhagavate vasudevaya.jpeg",
+        file: "songs/Om Namo Bhagavate Vasudevaya Mahavatar Narsimha 128 Kbps.mp3"
     },
 
     31: {
         title: "Mere Kanha",
         artist: "Jaya Kishori, Jubin Nautiyal",
-        image: "devotional mere kanha.jpg",
-        file: "Mere Kanha Jaya Kishori 128 Kbps.mp3"
+        image: "images/devotional mere kanha.jpg",
+        file: "songs/Mere Kanha Jaya Kishori 128 Kbps.mp3"
     },
 
     32: {
         title: "Ganjana Maharaj Bavani",
         artist: "Swapnil Bandodkar",
-        image: "ganjana maharaj bavani.webp",
-        file: "Gajanan-Maharaj-Bavani.mp3"
+        image: "images/ganjana maharaj bavani.webp",
+        file: "songs/Gajanan-Maharaj-Bavani.mp3"
     },
 
     33: {
         title: "Meri Maa Ke Barabar Koi Nahi",
         artist: "Jubin Nautiyal",
-        image: "Meri-Maa-Ke-Barabar-Koi-Nahi-Hindi-2021-20220307121001-500x500.jpg",
-        file: "Meri Maa Ke Barabar Koi Nahi Jubin Nautiyal 128 Kbps.mp3"
+        image: "images/Meri-Maa-Ke-Barabar-Koi-Nahi-Hindi-2021-20220307121001-500x500.jpg",
+        file: "songs/Meri Maa Ke Barabar Koi Nahi Jubin Nautiyal 128 Kbps.mp3"
     },
 
     34: {
         title: "Ram Siya Ram",
         artist: "Sachet Tandon, Parama Tandon",
-        image: "Ram-Siya-Ram-From-Adipurush-Hindi-2023-20230530192919-500x500.jpg",
-        file: "Ram Siya Ram Adipurush 128 Kbps.mp3"
+        image: "images/Ram-Siya-Ram-From-Adipurush-Hindi-2023-20230530192919-500x500.jpg",
+        file: "songs/Ram Siya Ram Adipurush 128 Kbps.mp3"
     },
 
     36: {
         title: "Shaky shaky",
         artist: "Sanju Rathod, Isha Malviya",
-        image: "Shaky-Marathi-2025.jpg",
-        file: ".mp3"
+        image: "images/Shaky-Marathi-2025.jpg",
+        file: "songs/Shaky shaky.mp3"
     },
 
     37: {
         title: "Man Dhavtay Tuzya Magh",
         artist: "Radhika Bhide",
-        image: "man dhavtay tuzya magh.jpg",
-        file: ".mp3"
+        image: "images/man dhavtay tuzya magh.jpg",
+        file: "songs/Mann Dhaavataya - 128 Kbps.mp3"
     },
 
     38: {
         title: "Jhumka",
         artist: "Sanju Rathod,Sonali Sonawane",
-        image: "jhumka marathi.jpg",
-        file: ".mp3"
+        image: "images/jhumka marathi.jpg",
+        file: "songs/jhumka marathi.mp3"
     },
 
     39: {
         title: "Teri Meri Yariyaan",
         artist: "Harshwardhan Wavare, Amitraj",
-        image: "teri meri yariyaan.jpg",
-        file: ".mp3"
+        image: "images/teri meri yariyaan.jpg",
+        file: "songs/Teri-Meri-Yaariyan-Sai-Ankush-Sonalee-Amitraj.mp3"
     },
 
     40: {
         title: "Mitwa",
         artist: "Amitraj, Shankar-Mahadeven, Jaanvee Prabhu-Arora",
-        image: "mitwaaa marathi song.jpg",
-        file: ".mp3"
+        image: "images/mitwaaa marathi song.jpg",
+        file: "songs/MItwa marathi song.mp3"
     },
 
     41: {
         title: "Aaruz",
         artist: "Asim Azhar,Noor,Khan,Madhurxo",
-        image: "aaruz indian best.jpg",
-        file: "Aarzu - DjBaap.mp3"
+        image: "images/aaruz indian best.jpg",
+        file: "songs/Aarzu - DjBaap.mp3"
     },
 
     42: {
         title: "Inaam",
         artist: "Jasleen Royal, Badshah, Ansh Chahal",
-        image: "inaam india best.jpg",
-        file: "Inaam Jasleen Royal 128 Kbps.mp3"
+        image: "images/inaam india best.jpg",
+        file: "songs/Inaam Jasleen Royal 128 Kbps.mp3"
     },
 
     43: {
         title: "Zulfein",
         artist: "Mehul Mahesh, Dj AYnik",
-        image: "zulfein india best.jpg",
-        file: "Zulfein - Mehul Mahesh Prod By Dj AYnik (Official Visualizer Video) Latest Hindi Romantic Song 2025 - (320 Kbps).mp3"
+        image: "images/zulfein india best.jpg",
+        file: "songs/Zulfein - Mehul Mahesh Prod By Dj AYnik (Official Visualizer Video) Latest Hindi Romantic Song 2025 - (320 Kbps).mp3"
     },
 
     44: {
         title: "Barged",
         artist: "sufr, Arpit Bala, Toorjo dey",
-        image: "barged india best.jpg",
-        file: ".mp3"
+        image: "images/barged india best.jpg",
+        file: "songs/sufr ft Arpit Bala, toorjo dey - bargad.mp3"
     },
 
     45: {
         title: "Nadaaniyan",
         artist: "Akshath",
-        image: "nadaaniyan india best.jpg",
-        file: "Nadaaniyan Akshath 128 Kbps.mp3"
+        image: "images/nadaaniyan india best.jpg",
+        file: "songs/Nadaaniyan Akshath 128 Kbps.mp3"
     },
 
     46: {
         title: "On the Floor",
         artist: "Jennifer Lopez , Pitbull",
-        image: "pop song.jpg",
-        file: ".mp3"
+        image: "images/pop song.jpg",
+        file: "songs/Jennifer Lopez, Pitbull - On The Floor.mp3"
     },
 
     47: {
         title: "That's so true",
         artist: "Gracie Abrams",
-        image: "pop song 2.jpg",
-        file: ".mp3"
+        image: "images/pop song 2.jpg",
+        file: "songs/Gracie Abrams - That’s So True.mp3"
     },
 
     48: {
         title: "Espresso",
         artist: "Sabrina Carpenter",
-        image: "pop song 3.jpg",
-        file: ".mp3"
+        image: "images/pop song 3.jpg",
+        file: "songs/Sabrina Carpenter - Espresso.mp3"
     },
 
     49: {
         title: "Ride it",
         artist: "Jay Sean",
-        image: "pop song 4.jpg",
-        file: ".mp3"
+        image: "images/pop song 4.jpg",
+        file: "songs/Jay Sean - Ride It.mp3"
     },
 
     50: {
         title: "Dandelions",
         artist: "Ruth B.",
-        image: "pop song 5.jpg",
-        file: ".mp3"
+        image: "images/pop song 5.jpg",
+        file: "songs/Ruth B. - Dandelions.mp3"
     },
 
     52: {
         title: "Boyfriend",
         artist: "Karan Aujila, Ikky",
-        image: "boyfriend punjabi song.jpg",
-        file: "Boyfriend P Pop Culture 128 Kbps.mp3"
+        image: "images/boyfriend punjabi song.jpg",
+        file: "songs/Boyfriend P Pop Culture 128 Kbps.mp3"
     },
 
     53: {
         title: "Kahyaal",
         artist: "Talwiinder, NDS",
-        image: "kahyaaal punjabi.jpg",
-        file: "Khayaal Talwiinder 128 Kbps.mp3"
+        image: "images/kahyaaal punjabi.jpg",
+        file: "songs/Khayaal Talwiinder 128 Kbps.mp3"
     },
 
     54: {
         title: "Nal Nachan",
         artist: "Shashwat Sachdev,Afsana Khan,Reble, Irshad Kamil",
-        image: "nal nachna punjabi.jpg",
-        file: "Naal Nachna Dhurandhar 128 Kbps.mp3"
+        image: "images/nal nachna punjabi.jpg",
+        file: "songs/Naal Nachna Dhurandhar 128 Kbps.mp3"
     },
 
     55: {
         title: "Gal Sun",
         artist: "Sabat Batin, Rackstar",
-        image: "gal sun punjabi.jpg",
-        file: ".mp3"
+        image: "images/gal sun punjabi.jpg",
+        file: "songs/Gal Sun [fwMtW9OIWC8].mp3"
     },
 
     56: {
         title: "Sadi Sun",
         artist: "Harsh Nussi",
-        image: "sadi sun punjabi.jpg",
-        file: "Sadi Sun Harsh Nussi 128 Kbps.mp3"
+        image: "images/sadi sun punjabi.jpg",
+        file: "songs/Sadi Sun Harsh Nussi 128 Kbps.mp3"
     },
 };
 
